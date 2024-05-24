@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ecommap'
+copyright = '2024, take4iso'
+author = 'take4iso'
 
 release = '0.1'
 version = '0.1.0'
